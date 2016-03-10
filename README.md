@@ -9,7 +9,7 @@ Main repository for software modeling course @JCE
 | # | Subject | HW (submission) |
 |---|---------|-----------------|
 | 1 | [Intro][01-intro]         |       |
-| 2 | [Git][02-git]             | [git][ex01-git] (16/3) |
+| 2 | [Git][02-git]             | [git][ex01-git] (23/3) |
 | 3 | UMl1 - static             | UML/OCL (14/4) |
 | 4 | UMl2 - dynamic            | |
 | 5 | UMl3 - OCL                | |
@@ -22,9 +22,7 @@ Main repository for software modeling course @JCE
 
 [Homework](Homework.md)
 
-[Projects](Projects.md)
-
-[Class Book](./book/)
+[Class Book]()
 
 [Tools](Tools.md)
 
