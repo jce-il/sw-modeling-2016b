@@ -9,14 +9,17 @@ Main repository for software modeling course @JCE
 | # | Subject | HW (submission) |
 |---|---------|-----------------|
 | 1 | [Intro][01-intro]         |       |
-| 2 | [Git][02-git]             | [git][ex01-git] (23/3) |
-| 3 | UMl1 - static             | UML/OCL (14/4) |
-| 4 | UMl2 - dynamic            | |
+| 2 | [Git][02-git]             | 1. [git][ex01-git] (23/3) |
+| 3 | UMl1 - usecase            | 2. [UML/OCL][ex2-uml] (30/3, 6/4, 13/4) |
+| 4 | UMl2 - static & dynamic   | |
 | 5 | UMl3 - OCL                | |
-| 6 | Process                   | Project (steps) |
-| 7 | Design & Architecture     | |
-| 8 | Evaluation                | |
-| 8 | Verification & Validation | DDD? |
+| 6 | Architecture - views & prespectives | 3. Arch. Views |
+| 7 | Arch. 2 + Project                   | Project (steps)|
+| 8 | Arch. 3                   | |
+| 10| Arch. 4                   | |
+| 11| Process                   | |
+| 12| Evaluation                | |
+| 13| Verification & Validation - Testing | DDD? |
 
 [Lecture slides](./lecture/)
 
@@ -31,3 +34,4 @@ Main repository for software modeling course @JCE
 [02-git]: ./lecture/modeling-02-git.pdf
 
 [ex01-git]: https://github.com/jce-il/git-immersion
+[ex02-uml]: https://github.com/jce-il/sw-modeling-2016b-uml

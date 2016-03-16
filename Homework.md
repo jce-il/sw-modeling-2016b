@@ -20,20 +20,24 @@ To complete building our git mental **model** in the course, we will complete th
 
 **Submission date**: 3 weeks
 
-## Homework2 [UML/OCL]()
+## Homework2 [UML/OCL](https://github.com/jce-il/sw-modeling-2016b-uml)
 
 Modeling an online store (Amazon like), through:
 
-1. One use-case diagram
-1. One detailed written use case (Readme or wiki)
+1. Usecase analysis, with: 
+  - Actors and stakeholder table
+  - One use-case diagram
+  - One detailed written use case
 1. Four diagrams: Sequence, Class, Activity, Component|Deployment
-1. OCL: Car example (see lecture 3 slides)
+1. OCL: One diagram with constrains (see CAR example in lecture slides)
 
-- Format: XMI files + iamge files in a github repo + Readme
+The models should be simple but not too simplistic!
 
-- **Submission dates**: ~~Part 1. 26/3 17:15, Part 2+3. a week after, part 4: next lecture ~~
+- Format: Each part has a separte markdown page including XMI files and image files
 
-## Homework3 DDD/CQRS/EventSourcing Workshop
+- **Submission dates**: 3 parts, each successive weeks, by pull request
+
+## Homework3 DDD/CQRS/EventSourcing Workshop (maybe)    
 1. Fork the workshop repository https://github.com/jce-il/mixter
 1. Clone to your machine
 1. Follow the workshop instuctions according to the Readme and included [slides](https://github.com/jce-il/mixter/blob/Slide/slide.pdf), at least the 3 first steps
