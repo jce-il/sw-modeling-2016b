@@ -1,15 +1,16 @@
 ##General
-Generally, work in this course is done in pairs and submitted through github, you must switch team for every assignment.
+Generally, work in this course is done in pairs and submitted through github, (we ask to switch team for every assignment).
 
 If you prefer that your solution will not be publicly visible [request private repositories][private-repos].
 
 
 ##Submissions Instructions
-1. To start, [**fork** the excercise repository][forking].
+1. To start, [**fork**][forking] the rellevant excercise repository (not this one).
 1. [**Clone**][ref-clone] the repository to your computer (for later updates: first add a [remote][config-remote] to the upstream repo and [sync][sync-remote] with a [pull][ref-pull]:  ```git pull upstream master```).
-1. Modify/add files (in the hw directory) and [**commit**][ref-commit] changes to complete your solution.
+1. Modify/add files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
+  - Add your excercise mates ass collaborators and also tag them in the PR message so they can participate in the discussion.
 
 Pull request screencast [demo](http://screencast-o-matic.com/watch/coe3IEeMDa)
 
