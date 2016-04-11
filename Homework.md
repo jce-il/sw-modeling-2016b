@@ -30,6 +30,7 @@ Modeling an online store (Amazon like), through:
   - One use-case diagram
   - One detailed written use case
 1. Four diagrams: Sequence, Class, Activity, Component|Deployment
+  - Each diagram should be accompanied by a section discussing the design and especially the **unique** design considerations embodied in the diagram.
 1. OCL: One diagram with constrains (see CAR example in lecture slides)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
@@ -39,54 +40,53 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 - Submission by a pull request, please add your mates in the PR comments
 - **Submission dates**: 3 parts, each successive weeks, by pull request
 
-## Homework3 DDD/CQRS/EventSourcing Workshop (maybe)    
-1. Fork the workshop repository https://github.com/jce-il/mixter
-1. Clone to your machine
-1. Follow the workshop instuctions according to the Readme and included [slides](https://github.com/jce-il/mixter/blob/Slide/slide.pdf), at least the 3 first steps
-1. Don't forget to commit (with a meaningful message) and tag each sub-step in a similiar manner to the existing tagging system, e.g., 
-    - ```git commit -a -m "messageDeleted event published"```
-    - ```git tag csharp-my-solution-1.1```
-1. If needed you can also reset to a beginning of another stage, e.g., ```git checkout -b origin\csharp-workshop-step-2 csharp-workshop-step-2```
-1. Push your results, incl. tags, e.g., ```git push origin csharp-solution; git push origin --tags```
-1. Submit by opening a pull request for the working branch (& also mention your peer)
+## Homework3 Architecture Views & Prespetive (TBD)    
 
-**Submission date**: Last lecture
+**Submission date**: TBD
 
-## Final Project (draft)
+## Final Project - Class Book: Azrieli STudents about software Modeling and Arcchitecture - ASTMA (draft)
 
-Grades are according to how much your work is: deep, relevant (to the course), presented well (written and oral), on time
+We will develop the book in agile iterations of an about 2-week sprint (you can suggest your own schedule). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
 
-### Stage 1
-- Select a known open source project (git is already captured for class demo)
-  - Here are some sources for ideas: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop),...
-  - Cloud related ideas and papers from the source course we use: https://courses.engr.illinois.edu/cs525/sp2015/sched.htm 
-- selcet a criteria for project fit (from the list discussed at class)
-- Review resources (repos, papers, posts, issues/bugs)
-- Open a repo for your project and link from the [project](Projects.md) list on the course wiki (by PR of course)
-- (the lecturer will discuss the suggestion with you)
+Each iteration will be submitted by a pull request to the book repository and evaluated and graded. Try to discuss issues alreaady during class time.
 
-**Submission date**: ~~14/5~~
+Grades are according to how much your work is: relevant (to the course), interesting & deep, presented well (written and oral), on time, etc.
 
-### Stage 2
+### Stage 0 - Project Selection and Introduction
+- Form into a team of ~4 students (choose wisely)
+- Select a known open source project
+  - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), used by someone (something on stake).
+  - Here are some sources for ideas: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop),...
+- Fork the book repo and add a markdown page for your chapter (decides whether to collaborate through a shared tram repository or by PRs), add:
+  - Project name, repository and team name (send a PR for that ASAP to reserve your subject)
+- See a close book example [here][asosa-book].
+
+### Stage 1 - Introducion
+- Start your  introduction section, including
+  - General details about the project
+  - project fit for our book (why it was chosen)
+  - Describe the model of the development process
+  - Review resources, especially concerning modeling and architecture  (repos, papers, posts, issues/bugs)
+  - Some images or diagrams to support the above
+
+### Stage 2 - Views and Prespectives
+- Fork the project's repository and consider adding a documentation folder
 - Describe the main requirements/features of the product
 - Describe the given documentation and/or source code
-- Describe the major or important designs with UML diagrams and or other modeling means
+- Describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches, C4)
 - Describe a few challenges for this project (e.g., a missing feature, known bugs)
-- Register to talk about it at class (again by setting a date on the project list)
 
-You can submit this stage as a presentation or draft paper
+### Stage 3 - Variability and Quality Measures
+- Describe how the project is copying with the pace of change commonly expected from software, e.g. testing, maintianability, and other means.
+- Describe how various qualities are handled, especially, avalability and security (if not a service define other)
 
-**Submission date**: ~~28/5~~
+### Stage 4 - Presentation, Feedback and Finizlize
+- Team presention of your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you used slides add them to the book too.
+- Try to contribute back the modeling documentation or other contribution
+- Describe your interacion and contribution to the project (documentation, fixing or reporting bugs/ open issues, improve process etc.)
+- Finish your book chapter, including a summary section discussing what you've learned from the course and the book project and how modeling contributed to your work (or how it got in the way..)
 
-### Stage 3
-- Add your presentation to the projects page 
-- Present!
-
-### Stage 4
-
-- Summarise the project in a class book chapter, in particular a section about how modeling contributed to your work (or how it got in the way..)
-**Submission date**: ~~Last day of semester~~ but drafts needed in advance
-
+The book will be avaialbe on github with a common creative with attribution license
 
 <!-- Links -->
 [private-repos]: /guide/private_repos
@@ -99,3 +99,5 @@ You can submit this stage as a presentation or draft paper
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
 [config-remote]: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 [sync-remote]: https://help.github.com/articles/syncing-a-fork/
+
+[Desosa-book]: http://delftswa.github.io/
