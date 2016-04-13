@@ -42,7 +42,7 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 ## Homework3 Architecture Views & Prespetive (TBD)    
 
-Possible alternative: right a review for a project stage of another project team.
+Possible alternative/addition: write a review for a project stage of another project team.
 
 **Submission date**: TBD
 
@@ -59,23 +59,24 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Form into a team of ~4 students (choose wisely)
 - Select a known open source project
   - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
-  - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of suggestions.
-- Fork the [ASOSMA] book repo and add a markdown page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
-  - Project name, repository and your team members (send a PR for that ASAP to reserve your subject)
-  - Issue tracking system to coordinate your work and report effort and progress
+  - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
+- Fork the [ASOSMA] book repo and add a chapter with and index.md page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
+  - Project name, repository and your team members/useranmes (send a PR for that ASAP to reserve your subject)
+  - Setup issue tracking system to coordinate your work and report effort and progress (required)
 - See a similiar book project example [here][Desosa-book].
 
 ### Stage 1 - Introducion
 - Start your  introduction section, including
   - General details about the project (homepage, repository, team, communications)
-  - project fit for our book (why it was chosen)
+  - project fit for our book (why it was chosen?)
   - Describe the model of the development process
   - Review resources, especially concerning modeling and architecture  (repos, papers, posts, issues/bugs)
   - Add a few images or diagrams to support the above
 
 ### Stage 2 - Views and Prespectives
-- Fork the project's repository and consider adding a documentation folder (e.g. according to this [branching model], or the one required by the projcet's development process)
-- Describe the given documentation and/or source code
+- Fork the project's repository and add a documentation folder (consider developing, e.g., according to this [branching model], or the one required by the projcet's development process)
+  - add a link to your fork to the introduction
+- Describe the given documentation and gegneral source code structure
 - Analyze and describe the main requirements/features of the product (stakeholder view)
 - Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, C4)
 - Describe a few challenges for this project (e.g., a missing feature, known bugs)
@@ -89,7 +90,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 ### Stage 4 - Presentation, Feedback and Finizlize
 - Team presentation of your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation or book.
 - You are encourage to contribute back the modeling documentation or other help.
-- Describe your interacion and contribution to the project (documentation, fixing or reporting bugs/ open issues, improve process etc.)
+- Describe your interacion and contribution to the project (documentation, fixing or reporting bugs/ open issues, improve development process and even the chapter you wrote)
 - Finish your book chapter, including a summary section discussing what you've learned from the course and the book project, how modeling contributed to your work (or how it got in the way..) and how you spent your time (an important hab)
 
 The book will be avaialbe on github with a common creative with attribution license.
@@ -99,6 +100,8 @@ The book will be avaialbe on github with a common creative with attribution lice
 |---|---------|---------|--------|
 | 1 | [Jasmine] | Testing | [JasminePRs] | 
 | 2 | [Anyway]  | Open Knowlwdge, Local| [AnywayPRS] |
+| 3 | [libgdx]  | Java Game Engine | [libgdxPRs] |
+| 4 | [bolt]    | CMS with PHP | [boltPRs] |
 
 
 
@@ -124,3 +127,9 @@ The book will be avaialbe on github with a common creative with attribution lice
 
 [Anyway]: https://github.com/hasadna/anyway
 [AnywayPRS]: https://github.com/hasadna/anyway/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+
+[libgdx]: https://github.com/libgdx/libgdx
+[libgdxPRs]: https://github.com/libgdx/libgdx/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+
+[bolt]: https://github.com/bolt/bolt
+[boltPRs]:https://github.com/bolt/bolt/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
