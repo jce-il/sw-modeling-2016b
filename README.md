@@ -14,7 +14,7 @@ Main repository for software modeling course @JCE
 | 4 | [UML2] - static & dynamic   | |
 | 5 | [UML3] - Summary & OCL      | |
 | 6 | Process? Architecture - views & prespectives | 3. Arch. Views? |
-| 7 | Arch. 2 + Project                   | [Project][project-repo]:|
+| 7 | Arch. 2 + Project                   | [Project][book-project-repo]:|
 | 8 | Arch. 3                   | (0. 5/5, 1. 19/5, 2. 9/6, 3. 16/6, 4. end-of-semester)|
 | 10| Arch. 4                   | |
 | 11| Process                   | |
@@ -38,4 +38,4 @@ Main repository for software modeling course @JCE
 
 [ex01-git]: https://github.com/jce-il/git-immersion
 [ex02-uml]: https://github.com/jce-il/sw-modeling-2016b-uml
-[project-repo]: https://github.com/jce-il/ASOSMA
+[book-project-repo]: https://github.com/jce-il/ASOSMA

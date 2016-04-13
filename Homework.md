@@ -46,7 +46,7 @@ Possible alternative: right a review for a project stage of another project team
 
 **Submission date**: TBD
 
-## Final Project - Class Project: Azrieli Students On Software Modeling and Arcchitecture - ASOSMA Book (draft)
+## Final Class Project: Azrieli Students On Software Modeling and Arcchitecture - ASOSMA Book (draft)
 
 We will develop the book in agile iterations of an about 2-week sprints (you can suggest your own schedule). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
 
@@ -59,7 +59,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Select a known open source project
   - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of suggestions.
-- Fork the book repo and add a markdown page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
+- Fork the [book repo][book-project-repo] and add a markdown page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, repository and your team members (send a PR for that ASAP to reserve your subject)
   - Issue tracking system to coordinate your work and report effort and progress
 - See a similiar book project example [here][Desosa-book].
@@ -73,7 +73,7 @@ Grades are according to how much your work is: relevant (to the course), interes
   - Add a few images or diagrams to support the above
 
 ### Stage 2 - Views and Prespectives
-- Fork the project's repository and consider adding a documentation folder
+- Fork the project's repository and consider adding a documentation folder (e.g. according to this [branching model], or the one required by the projcet's development process)
 - Describe the given documentation and/or source code
 - Analyze and describe the main requirements/features of the product (stakeholder view)
 - Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, C4)
@@ -112,7 +112,9 @@ The book will be avaialbe on github with a common creative with attribution lice
 [config-remote]: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 [sync-remote]: https://help.github.com/articles/syncing-a-fork/
 
+[book-project-repo]: https://github.com/jce-il/ASOSMA
 [Desosa-book]: http://delftswa.github.io/
+[branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
-[Jasmine]: http://jasmine.github.io/
-[Jasmine-PRs]: https://github.com/jasmine/jasmine/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+[Jasmine]: https://github.com/jasmine/jasmine
+[JasminePRs]: https://github.com/jasmine/jasmine/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
