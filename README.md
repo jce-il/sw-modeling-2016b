@@ -10,7 +10,7 @@ Main repository for software modeling course @JCE
 |---|---------|-----------------|
 | 1 | [Intro][01-intro]         |       |
 | 2 | [Git][02-git]             | 1. [git][ex01-git] (23/3) |
-| 3 | [UML1] - usecase            | 2. [UML/OCL][ex02-uml] (1/4 noon, 14/4, 21/4) |
+| 3 | [UML1] - usecase            | 2. [UML/OCL][ex02-uml] (1/4 noon, 14/4, 5/5) |
 | 4 | [UML2] - static & dynamic   | |
 | 5 | [UML3] - Summary & OCL      | |
 | 6 | Process                     | [project-details]: |
