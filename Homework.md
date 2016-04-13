@@ -39,6 +39,7 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 - Submission by a pull request, please add your mates in the PR comments
 - **Submission dates**: 3 parts, each successive weeks, by pull request
+                        Part 3 due date on 5/05
 
 ## Homework3 Architecture Views & Prespetive (TBD)    
 
