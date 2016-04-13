@@ -13,11 +13,11 @@ Main repository for software modeling course @JCE
 | 3 | [UML1] - usecase            | 2. [UML/OCL][ex02-uml] (1/4 noon, 14/4, 21/4) |
 | 4 | [UML2] - static & dynamic   | |
 | 5 | [UML3] - Summary & OCL      | |
-| 6 | Process? Architecture - views & prespectives | 3. Arch. Views? |
-| 7 | Arch. 2 + Project                   | [Project][book-project-repo]:|
-| 8 | Arch. 3                   | (0. 5/5, 1. 19/5, 2. 9/6, 3. 16/6, 4. end-of-semester)|
-| 10| Arch. 4                   | |
-| 11| Process                   | |
+| 6 | Process                     | [project-details]: |
+| 7 | Architecture - views & prespectives | (0. 5/5, 1. 19/5, 2. 9/6, 3. 16/6, 4. end-of-semester)|
+| 8 | Arch. 2                   | |
+| 10| Arch. 3                   |  3. Arch. Views?|
+| 11| Arch  4.                  | |
 | 12| Evaluation                | |
 | 13| Verification & Validation - Testing | DDD? |
 
@@ -38,4 +38,4 @@ Main repository for software modeling course @JCE
 
 [ex01-git]: https://github.com/jce-il/git-immersion
 [ex02-uml]: https://github.com/jce-il/sw-modeling-2016b-uml
-[book-project-repo]: https://github.com/jce-il/ASOSMA
+[project-details]: ./Homework.md#final-class-project

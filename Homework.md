@@ -46,7 +46,8 @@ Possible alternative: right a review for a project stage of another project team
 
 **Submission date**: TBD
 
-## Final Class Project: Azrieli Students On Software Modeling and Arcchitecture - ASOSMA Book (draft)
+## Final Class Project
+### Azrieli Students On Software Modeling and Arcchitecture - [ASOSMA] Book (draft)
 
 We will develop the book in agile iterations of an about 2-week sprints (you can suggest your own schedule). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
 
@@ -59,7 +60,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Select a known open source project
   - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of suggestions.
-- Fork the [book repo][book-project-repo] and add a markdown page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
+- Fork the [ASOSMA] book repo and add a markdown page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, repository and your team members (send a PR for that ASAP to reserve your subject)
   - Issue tracking system to coordinate your work and report effort and progress
 - See a similiar book project example [here][Desosa-book].
@@ -96,8 +97,9 @@ The book will be avaialbe on github with a common creative with attribution lice
 ### Project Suggestion
 | # | Project | Domain  | Remarks|
 |---|---------|---------|--------|
-|   | [Jasmine] | Testing | [JasminePRs] | 
-|   | | | | |
+| 1 | [Jasmine] | Testing | [JasminePRs] | 
+| 2 | [Anyway]  | Open Knowlwdge, Local| [AnywayPRS] |
+
 
 
 <!-- Links -->
@@ -112,9 +114,13 @@ The book will be avaialbe on github with a common creative with attribution lice
 [config-remote]: https://help.github.com/articles/configuring-a-remote-for-a-fork/
 [sync-remote]: https://help.github.com/articles/syncing-a-fork/
 
-[book-project-repo]: https://github.com/jce-il/ASOSMA
+[ASOSMA]: https://github.com/jce-il/ASOSMA
 [Desosa-book]: http://delftswa.github.io/
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
+
 [Jasmine]: https://github.com/jasmine/jasmine
 [JasminePRs]: https://github.com/jasmine/jasmine/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+
+[Anyway]: https://github.com/hasadna/anyway
+[AnywayPRS]: https://github.com/hasadna/anyway/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
