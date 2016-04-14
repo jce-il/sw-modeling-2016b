@@ -47,7 +47,7 @@ Possible alternative/addition: write a review for a project stage of another pro
 **Submission date**: TBD
 
 ## Final Class Project
-### Azrieli Students On Software Modeling and Arcchitecture - [ASOSMA] Book (draft)
+### Azrieli Students On Software Modeling and Architecture - [ASOSMA] Book ([Deployed version]) (draft)
 
 We will develop the book in agile iterations of an about 2-week sprints (you can suggest your own schedule). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
 
@@ -61,7 +61,7 @@ Grades are according to how much your work is: relevant (to the course), interes
   - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
 - Fork the [ASOSMA] book repo and add a chapter with and index.md page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
-  - Project name, repository and your team members/useranmes (send a PR for that ASAP to reserve your subject)
+  - Project name, repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
   - Setup issue tracking system to coordinate your work and report effort and progress (required)
 - See a similiar book project example [here][Desosa-book].
 
@@ -118,6 +118,7 @@ The book will be avaialbe on github with a common creative with attribution lice
 [sync-remote]: https://help.github.com/articles/syncing-a-fork/
 
 [ASOSMA]: https://github.com/jce-il/ASOSMA
+[Deployed version]: http://jce-il.github.io/ASOSMA/
 [Desosa-book]: http://delftswa.github.io/
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
