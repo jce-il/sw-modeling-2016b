@@ -49,7 +49,7 @@ Possible alternative/addition: write a review for a project stage of another pro
 ## Final Class Project
 ### Azrieli Students On Software Modeling and Architecture - [ASOSMA] Book ([Deployed version]) (draft)
 
-We will develop the book in agile iterations of an about 2-week sprints (you can suggest your own schedule). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
+We will develop the book in agile iterations of an about 2-week sprints (Default schedule appears on course mani page). In each iteration you will continue developing sections of a book chapter describing the modling of an open source project you selected.
 
 Each iteration will be submitted by a pull request to the book repository and evaluated and graded. Discuss progress and issues alreaady during class time or on chat.
 
@@ -58,23 +58,23 @@ Grades are according to how much your work is: relevant (to the course), interes
 ### Stage 0 - Project Selection and Introduction
 - Form into a team of ~4 students (choose wisely)
 - Select a known open source project
-  - The project should be: interesting to you, big & complex enough, actively developed (>50 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
+  - The project should be: interesting to you, big & complex enough, actively developed on github (>100 PRs in last year), has an automated test suite (use of engineering practices), used by someone (something on stake), and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
-- Fork the [ASOSMA] book repo and add a chapter with and index.md page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
+- Fork the [ASOSMA] book repo and add a chapter with a README.md page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
   - Setup issue tracking system to coordinate your work and report effort and progress (required)
-- See a similiar book project example [here][Desosa-book].
+- See also a similiar book project example [here][Desosa-book].
 
 ### Stage 1 - Introducion
-- Start your  introduction section, including
-  - General details about the project (homepage, repository, team, communications)
+- Start your introduction section, including
+  - General details about the project (homepage, repository, development team, communications)
   - project fit for our book (why it was chosen?)
   - Describe the model of the development process
-  - Review resources, especially concerning modeling and architecture  (repos, papers, posts, issues/bugs)
+  - Review availaibe resources, especially concerning modeling and architecture  (repos, papers, posts, issues/bugs)
   - Add a few images or diagrams to support the above
 
 ### Stage 2 - Views and Prespectives
-- Fork the project's repository and add a documentation folder (consider developing, e.g., according to this [branching model], or the one required by the projcet's development process)
+- Fork the project's repository and add a documentation folder (consider developing it, e.g., according to this [branching model], or the one required by the projcet's development process)
   - add a link to your fork to the introduction
 - Describe the given documentation and gegneral source code structure
 - Analyze and describe the main requirements/features of the product (stakeholder view)
@@ -88,7 +88,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Describe how at least 2 qualities are handled, especially, avalability and security (if not a service define other)
 
 ### Stage 4 - Presentation, Feedback and Finizlize
-- Team presentation of your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation or book.
+- Team presentation of your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation and/or book.
 - You are encourage to contribute back the modeling documentation or other help.
 - Describe your interacion and contribution to the project (documentation, fixing or reporting bugs/ open issues, improve development process and even the chapter you wrote)
 - Finish your book chapter, including a summary section discussing what you've learned from the course and the book project, how modeling contributed to your work (or how it got in the way..) and how you spent your time (an important hab)
