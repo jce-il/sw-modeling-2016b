@@ -118,7 +118,7 @@ The book will be avaialbe on github with a common creative with attribution lice
 [sync-remote]: https://help.github.com/articles/syncing-a-fork/
 
 [ASOSMA]: https://github.com/jce-il/ASOSMA
-[Deployed version]: http://jce-il.github.io/ASOSMA/
+[Deployed version]: http://jce-il.github.io/ASOSMA/README.html
 [Desosa-book]: http://delftswa.github.io/
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
