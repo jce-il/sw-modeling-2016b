@@ -60,10 +60,12 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Select a known open source project
   - Constrains: the project should be: interesting to you, big & complex enough, actively developed on github (>100 PRs in last year), has an automated test suite (use of updated engineering practices), used by someone (something on stake), and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
-- Fork the [ASOSMA] book repo and add a chapter with a README.md page for your chapter (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
-  - Project name, repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
-  - Setup issue tracking system to coordinate your work and report effort and progress (required, upon  closing an issue add you actual effort). Also add milestones according to your plan and associate issues accordingly.
-- See also a similiar book project example [here][Desosa-book].
+- Fork the [ASOSMA] book repo and add a folder with a README.md page for your chapter and link it also from the main book README page (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
+  - Project name, original project repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
+  - Setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues for operating it). It is required upon  closing an issue to add you actual effort).
+        - Plan your overall project by adding dated milestones according to the course plan and your preferences.
+        - Start planning next iteration work.
+  - See also a similiar book project example [here][Desosa-book].
 
 ### Stage 1 - Introducion
 - Start your introduction section, including:
