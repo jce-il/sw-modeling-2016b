@@ -5,7 +5,7 @@ If you prefer that your solution will not be publicly visible [request private r
 
 
 ##Submissions Instructions
-1. To start, [**fork**][forking] the rellevant excercise repository (not this one).
+1. To start, [**fork**][forking] the rellevant excercise repository (not this one), add your team as collabotators (so they get notified for repository activity).
 1. [**Clone**][ref-clone] the repository to your computer (for later updates: first add a [remote][config-remote] to the upstream repo and [sync][sync-remote] with a [pull][ref-pull]:  ```git pull upstream master```).
 1. Modify/add files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
