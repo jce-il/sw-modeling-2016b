@@ -16,8 +16,8 @@ Main repository for software modeling course @JCE
 | 6 | [Process]                     | [project-details]: |
 | 7 | [Architecture] - views & prespectives | p0. 5/5|
 | 8 | Arch. 2 (cont. Arch. Course) - viewpoints   |  p1. 19/5 |
-| 10| Arch. 3 - viewpoints2     |  ~~3. Arch. Views?~~|
-| 11| Arch. 4 - descriptions    |  p2. 9/6 |
+| 10| Arch. 3 - viewpoints2 & prespectives     |  ~~3. Arch. Views?~~|
+| 11| Arch. 4 - test scenarions & patterns    |  p2. 9/6 |
 | 12| Arch. 5 - Measure & Evaluate   | p3. 16/6|
 | 13| Verification & Validation - Testing / DDD? |  |
 | 14| Summary | p4. end-of-semester | 

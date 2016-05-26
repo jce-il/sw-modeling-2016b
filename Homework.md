@@ -58,7 +58,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 ### Stage 0 - Project Selection and Introduction
 - Form into a team of ~4 students (choose wisely)
 - Select a known open source project
-  - Constrains: the project should be: interesting to you, big & complex enough, actively developed on github (>100 PRs in last year), has an automated test suite (use of updated engineering practices), used by someone (something on stake), and seem to miss documenation.
+  - Constrains: the project should be: interesting to you, big & complex enough, actively developed on github (>100 PRs in last year), has an automated test suite (use of updated engineering practices), used by someone (something on stake), a whole product might suit as better than a mere library, and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
 - Fork the [ASOSMA] book repo and add a folder with a README.md page for your chapter and link it also from the main book README page (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, original project repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
