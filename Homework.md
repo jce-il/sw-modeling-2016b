@@ -80,14 +80,14 @@ Grades are according to how much your work is: relevant (to the course), interes
   - add a link to your fork to the introduction section.
 - Describe the given documentation and general source code structure.
 - Analyze and describe the main requirements/features of the product (stakeholder view).
-- Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, C4).
+- Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, [C4][structurizr]).
 - Describe a few challenges for this project (e.g., a missing important feature, known bugs).
 - Try to validate your analysis with the project team and report about it.
 
 ### Stage 3 - Metrics, Variability and Quality Measures
 - Describe how the project is coping with the pace of change commonly expected from software, e.g. testing, maintianability, and other means.
 - Describe the applicability of a design metric tool (e.g. code climate) to the project code.
-- Describe how at least 2 qualities are handled, especially, avalability and security (if the product is not a service define others)
+- Describe how at least 2 qualities are handled, especially, availability and security (if the product is not a service define others)
 
 ### Stage 4 - Presentation, Feedback and Finizlize
 - Present your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation and/or book.
@@ -124,6 +124,7 @@ The book will be avaialbe on github with a common creative with attribution lice
 [Desosa-book]: http://delftswa.github.io/
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
+[structurizr]: https://structurizr.com/
 
 [Jasmine]: https://github.com/jasmine/jasmine
 [JasminePRs]: https://github.com/jasmine/jasmine/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
