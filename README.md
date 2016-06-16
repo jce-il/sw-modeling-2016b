@@ -19,7 +19,7 @@ Main repository for software modeling course @JCE
 | 9 | Arch. 3 - viewpoints2 & prespectives     |  ~~3. Arch. Views?~~|
 | 10| Arch. 4 - test scenarions & patterns    |  p2. 2/6 |
 | 11| Arch. 5 - Evaluate & Document   | p3. 9/6|
-| 12| Verification & Validation - Testing / Seciruty / DDD? |  |
+| 12| Verification & Validation - [Testing] / Security / DDD? |  |
 | 13| Presentations & Summary | p4. end-of-semester | 
 [Lecture slides](./lecture/)
 
@@ -37,6 +37,7 @@ Main repository for software modeling course @JCE
 [UML3]: ./lecture/modeling-05-uml3-ocl.pdf
 [Process]: ./lecture/modeling-06-team-process.pdf
 [Architecture]: ./lecture/modeling-07-architecture.pdf
+[Testing]: ./lecture/modeling-08-testing.pdf
 
 [ex01-git]: https://github.com/jce-il/git-immersion
 [ex02-uml]: https://github.com/jce-il/sw-modeling-2016b-uml
