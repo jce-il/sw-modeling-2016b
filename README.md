@@ -20,7 +20,7 @@ Main repository for software modeling course @JCE
 | 10| Arch. 4 - test scenarions & patterns    |  p2. 2/6 |
 | 11| Arch. 5 - Evaluate & Document   | p3. 9/6|
 | 12| Verification & Validation - [Testing] / Security / DDD? |  |
-| 13| Presentations & Summary | p4. end-of-semester | 
+| 13| Presentations & [Summary] | p4. end-of-semester | 
 [Lecture slides](./lecture/)
 
 [Homework](Homework.md)
@@ -38,6 +38,7 @@ Main repository for software modeling course @JCE
 [Process]: ./lecture/modeling-06-team-process.pdf
 [Architecture]: ./lecture/modeling-07-architecture.pdf
 [Testing]: ./lecture/modeling-08-testing.pdf
+[Summary]: ./lecture/modeling-09-summary.pdf
 
 [ex01-git]: https://github.com/jce-il/git-immersion
 [ex02-uml]: https://github.com/jce-il/sw-modeling-2016b-uml
